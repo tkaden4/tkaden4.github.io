@@ -1,0 +1,39 @@
+baseURL = 'http://tkaden4.github.io'
+languageCode = 'en-us'
+title = 'TODO'
+theme = "LoveIt"
+publishDir = "docs"
+languageName = "english"
+
+[author]
+  name = "Kaden"
+  email = "contact@tkaden.net"
+  link = "github.com/tkaden4"
+
+[params]
+  author = false
+  defaultTheme = "dark"
+
+[permalinks]
+    post    = "/:section/:year/:month/:day/:title"
+
+[params.meta]
+  favicon = true
+  description = "blog"
+  svg = false
+  faviconVersion = "1"
+
+
+[params.header.title]
+  name = "TODO"
+  typeit = true
+
+[params.footer]
+  author = false
+
+[params.home]
+  [params.home.profile]
+    avatarURL = "/todo.png"
+    title = "TODO"
+    subtitle = "A blog focusing on music, code, and electronics"
+    typeit = false
