@@ -1,8 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Tags - Tag - TODO</title>
-        <link>http://tkaden4.github.io/tags/</link>
-        <description>Tags - Tag - TODO</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>contact@tkaden.net (Kaden)</managingEditor>
-            <webMaster>contact@tkaden.net (Kaden)</webMaster><atom:link href="http://tkaden4.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
-</rss>
